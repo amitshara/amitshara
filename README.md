@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Amit+Sharma;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
-</h1>
+# Hi 👋 I'm Amit Sharma!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amitshara&label=Profile%20Views&color=2E86AB&style=flat" alt="Profile Views" />
@@ -72,19 +74,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitshara&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitshara&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitshara&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -100,18 +89,3 @@
 <p align="center">
   <i>"Data is the new oil — I help businesses refine it."</i>
 </p>
-
-<!--
-**amitshara/amitshara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
