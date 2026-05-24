@@ -1,6 +1,6 @@
 # Hi 👋 I'm Amit Sharma! 
                      
-<p align="center">  
+<p align="center">    
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
 </p>
 
